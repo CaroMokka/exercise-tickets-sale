@@ -1,0 +1,12 @@
+{
+  "name": "movie-tickets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node tickets.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
